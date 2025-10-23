@@ -67,8 +67,8 @@ class H1EnvCfg(DirectRLEnvCfg):
         50.0,  # right_knee
         50.0,  # left_shoulder_yaw
         50.0,  # right_shoulder_yaw
-        50.0,  # right_ankle
         50.0,  # left_ankle
+        50.0,  # right_ankle
         50.0,  # left_elbow
         50.0,  # right_elbow
     ]
