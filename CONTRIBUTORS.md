@@ -100,8 +100,10 @@ Guidelines for modifications:
 * Michael Noseworthy
 * Michael Lin
 * Miguel Alonso Jr
+* Mingxue Gu
 * Mingyu Lee
 * Muhong Guo
+* Narendra Dahile
 * Neel Anand Jawale
 * Nicola Loi
 * Norbert Cygiert
@@ -115,6 +117,7 @@ Guidelines for modifications:
 * Philipp Reist
 * Pulkit Goyal
 * Qian Wan
+* Qingyang Jiang
 * Qinxi Yu
 * Rafael Wiltz
 * Renaud Poncelet
@@ -122,13 +125,17 @@ Guidelines for modifications:
 * Ritvik Singh
 * Rosario Scalise
 * Ryley McCarroll
+* Sergey Grizan
 * Shafeef Omar
+* Shane Reetz
 * Shaoshu Su
 * Shaurya Dewan
 * Sixiang Chen
 * Shundo Kishi
 * Stefan Van de Mosselaer
 * Stephan Pleines
+* Tiffany Chen
+* Trushant Adeshara
 * Tyler Lum
 * Victor Khaustov
 * Virgilio Gómez Lambo
@@ -143,6 +150,8 @@ Guidelines for modifications:
 * Yohan Choi
 * Yujian Zhang
 * Yun Liu
+* Zehao Wang
+* Zijian Li
 * Ziqi Fan
 * Zoe McCarthy
 * David Leon
